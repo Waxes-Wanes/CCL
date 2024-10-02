@@ -9,7 +9,7 @@ A community friendly, plugin driven Minecraft launcher.
 [![Stars](https://img.shields.io/github/stars/wind-XF/CCL?label=Stars)](https://github.com/wind-XF/CCL)
 
 <p>
-  <a>English | <a href='./README.zh_CN.md'>简体中文 </a>
+  <a>English | <a href='./README.zh-CN.md'>简体中文 </a>
 </p>
 </div>
 
